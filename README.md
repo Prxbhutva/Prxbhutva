@@ -2,7 +2,7 @@
 
 # Hi, I'm Prabhutva Mehta 👋
 
-**AI/ML Engineer** · Final-Year B.Tech CSE @ KIIT (CGPA 8.77) · Explainable & Trustworthy ML
+**AI/ML Engineer** · Final-Year B.Tech CSE @ KIIT · Explainable & Trustworthy ML
 
 </div>
 
@@ -23,7 +23,7 @@ I'm a final-year CS undergrad at **KIIT** building ML systems where interpretabi
 
 ---
 
-### 📄 Publications
+### Publications
 
 | Title | Venue | Notes |
 |---|---|---|
@@ -32,17 +32,17 @@ I'm a final-year CS undergrad at **KIIT** building ML systems where interpretabi
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | What it does | Stack |
 |---|---|---|
 | **Aircraft Health Prediction (PHM)** | Multi-subsystem predictive maintenance (engine/bearing/hydraulic) with calibrated uncertainty & explainability, deployed via Streamlit | CNN-LSTM · XGBoost · LightGBM · Optuna · TreeSHAP · Grad-CAM |
 | **Explainability-Driven Credit Scoring** | Interpretable logistic regression + SHAP for rural microfinance risk assessment, with a real-time Streamlit dashboard | Python · SHAP · Streamlit |
-| **AI-Based Dropout Prediction & Counseling System** | Dual-role dashboards, real-time alerts, and an NLP counseling chatbot; led the team for SIH 2025 | Python · NLP |
+| **AI-Based Dropout Prediction & Counseling System** | Dual-role dashboards, real-time alerts, and an NLP counseling chatbot | Python · NLP |
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -61,7 +61,7 @@ I'm a final-year CS undergrad at **KIIT** building ML systems where interpretabi
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -74,7 +74,7 @@ I'm a final-year CS undergrad at **KIIT** building ML systems where interpretabi
 
 ---
 
-### 🎓 Certifications
+### Certifications
 
 - AWS Academy Graduate — Data Engineering · Cloud Foundations
 - Modern Robotics, Course 1 & 2 — Northwestern University (Coursera)
@@ -83,7 +83,7 @@ I'm a final-year CS undergrad at **KIIT** building ML systems where interpretabi
 - Git Complete: The Definitive Guide — Udemy
 - Graph Camp — AlgoUniversity
 
-### 🏆 Extracurricular
+### Extracurricular
 
 - Smart India Hackathon 2025 — Team lead, AI-Based Dropout Prediction & Counseling System
 - Team lead, Zyphyr Hackathon, IIT Bhubaneswar 2025
