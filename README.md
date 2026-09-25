@@ -12,7 +12,7 @@ I'm a final-year CS undergrad at **KIIT** building ML systems where interpretabi
 - 📄 Two publications: one on aircraft health prediction (IEEE, provisional accept), one on sentiment analysis of psychiatric medications (90% acc, F1 0.887)
 - 💼 Recently completed an Associate Software Engineer internship at **Accenture (ATCi)** — SAP BASIS / S/4HANA / Cloud ALM
 - 🌍 Speak Hindi, English, French (DELF B1), studying Japanese (N5) and German
-- 📫 Reach me at **prabhutvamehta7916@gmail.com**
+- 📫 Reach me at **mprabhutva19@gmail.com**
 
 ---
 
